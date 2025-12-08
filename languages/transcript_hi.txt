@@ -1,0 +1,52 @@
+and_then_exit_left – फिर, लेफ़्ट से एग्ज़िट करें। (phir, left se exit karein.)
+and_then_exit_right – फिर, राइट से एग्ज़िट करें। (phir, right se exit karein.)
+and_then_go_straight – फिर, सीधे चलते रहें। (phir, seedhe chalte rahe.)
+and_then_keep_left – फिर, लेफ़्ट पर चलते रहें। (phir, left par chalte rahe.)
+and_then_keep_right – फिर, राइट पर चलते रहें। (phir, right par chalte rahe.)
+and_then_turn_left – फिर, लेफ़्ट मुड़ें। (phir, left muden.)
+and_then_turn_right – फिर, राइट मुड़ें। (phir, right muden.)
+
+compound_exit_left – लेफ़्ट से एग्ज़िट करें। (left se exit karein.)
+compound_exit_right – राइट से एग्ज़िट करें। (right se exit karein.)
+compound_go_straight – सीधे चलते रहें। (seedhe chalte rahe.)
+compound_keep_left – लेफ़्ट पर चलते रहें। (left par chalte rahe.)
+compound_keep_right – राइट पर चलते रहें। (right par chalte rahe.)
+compound_turn_left – लेफ़्ट मुड़ें। (left muden.)
+compound_turn_right – राइट मुड़ें। (right muden.)
+
+exit_left – लेफ़्ट से एग्ज़िट करें। (left se exit karein.)
+exit_now – अभी एग्ज़िट करें। (abhi exit karein.)
+exit_right – राइट से एग्ज़िट करें। (right se exit karein.)
+
+finish – आप अपनी मंज़िल पर पहुँच गए हैं। (aap apni manzil par pahunch gaye hain.)
+
+go_straight – सीधे चलते रहें। (seedhe chalte rahe.)
+
+keep_left – लेफ़्ट पर चलते रहें। (left par chalte rahe.)
+keep_right – राइट पर चलते रहें। (right par chalte rahe.)
+
+prepare_exit_left – लेफ़्ट से एग्ज़िट के लिए तैयार हो जाएँ। (left se exit ke liye tayyar ho jaayen.)
+prepare_exit_right – राइट से एग्ज़िट के लिए तैयार हो जाएँ। (right se exit ke liye tayyar ho jaayen.)
+prepare_turn_left – लेफ़्ट मुड़ने के लिए तैयार हो जाएँ। (left mudne ke liye tayyar ho jaayen.)
+prepare_turn_right – राइट मुड़ने के लिए तैयार हो जाएँ। (right mudne ke liye tayyar ho jaayen.)
+
+recomputing – आप रास्ते से हट गए हैं। नया रास्ता खोजा जा रहा है।
+(aap raste se hat gaye hain. naya rasta khoja ja raha hai.)
+
+roundabout_1 – राउंडअबाउट पर, पहला एग्ज़िट लें। (roundabout par, pehla exit len.)
+roundabout_2 – राउंडअबाउट पर, दूसरा एग्ज़िट लें। (roundabout par, doosra exit len.)
+roundabout_3 – राउंडअबाउट पर, तीसरा एग्ज़िट लें। (roundabout par, teesra exit len.)
+roundabout_4 – राउंडअबाउट पर, चौथा एग्ज़िट लें। (roundabout par, chautha exit len.)
+roundabout_5 – राउंडअबाउट पर, पाँचवा एग्ज़िट लें। (roundabout par, paanchva exit len.)
+roundabout_6 – राउंडअबाउट पर, छठा एग्ज़िट लें। (roundabout par, chhatha exit len.)
+
+speed_signal - 
+
+speed_warning – आप स्पीड लिमिट से तेज़ चला रहे हैं। (aap speed limit se tez chala rahe hain.)
+
+start – आपकी यात्रा शुभ हो, सावधानी से ड्राइव करें। (aapki yatra shubh ho, saavdhaani se drive karein.)
+
+turn_left – लेफ़्ट मुड़ें। (left muden.)
+turn_right – राइट मुड़ें। (right muden.)
+
+u_turn – मौका मिलते ही यू-टर्न लें। (mauka milte hi u-turn lein.)
